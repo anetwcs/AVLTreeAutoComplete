@@ -1,0 +1,47 @@
+hello world
+
+
+s u i e o y
+
+
+
+help -> hex
+
+
+
+
+topksort time complexity
+
+
+
+
+
+
+hexameter
+hel
+hexameter
+he
+i
+ii
+
+
+
+
+i asd
+
+
+
+For N = 10, we got these result for performance.
+
+Out(ChainingHashTable::MoveToFrontList) + In(ChainingHashTable) : 19565ms
+Out(ChainingHashTable::MoveToFrontList) + In(MoveToFrontList) : 39031ms
+Out(ChainingHashTable::MoveToFrontList) + In(AVLTree) : 19011ms
+Out(ChainingHashTable::MoveToFrontList) + In(BinarySearchTree) : Don't want to use because it is worse than AVLTree for search.
+
+Out(ChainingHashTable::AVLTree) + In(AVLTree) : 19707ms
+
+Out(trieConstructor) + In(ChainingHashTable) : More than 3min.
+Out(trieConstructor) + In(AVLTree) : More than 3min.
+
+
+trie  + chain : 19565

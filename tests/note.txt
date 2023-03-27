@@ -1,0 +1,21 @@
+The name of our animal
+gandalf
+
+The name of our repo:
+p2-gandalf
+
+Repo URL:
+https://gitlab.cs.washington.edu/cse332-21su/p2-gandalf
+
+Project Specification:
+https://courses.cs.washington.edu/courses/cse332/21su/assignments/p2/p2_spec.pdf
+
+Writeup:
+https://docs.google.com/document/d/1NKbDdEWJb2jmUTmxNC5Oq5qpxi8NDQ19-7mp5XNF_5o/edit
+
+HowTo Setting:
+https://docs.google.com/document/d/1R9zcb2fkI0sAwwXC2ZZmWW7ZGDO3gPAMXlX1yQQuUTE/edit
+
+HowTo Submit:
+https://docs.google.com/document/d/1eepk1sHto09Q7QOk8L0QG5qT0kEEEsWNTmK3M5ZEt80/edit
+
